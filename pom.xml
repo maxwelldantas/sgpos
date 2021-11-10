@@ -15,7 +15,7 @@
 	<description>Sistema de Gerenciamento de Produtos e Ordens de Serviços</description>
 
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
